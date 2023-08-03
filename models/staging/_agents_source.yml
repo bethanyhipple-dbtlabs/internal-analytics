@@ -1,0 +1,6 @@
+sources:
+  - name: agents
+    database: analytics
+    schema: raw_sample
+    tables:
+      - name: property_agent
