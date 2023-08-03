@@ -1,8 +1,0 @@
-sources:
-  - name: tpcds
-    database: snowflake_sample_data
-    schema: tpcds_sf10tcl
-    tables:
-      - name: customer
-      - name: customer_address
-      - name: customer_demographics
